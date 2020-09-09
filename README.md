@@ -1,6 +1,16 @@
 # effective-technical-discussions
 This is a sample repo for effective technical discussions
 
+### How to write a python function
+
+```python
+def hello():
+  return "hello"
+
+
+
+
+
 ### References
 
 This is a good screenshot!
