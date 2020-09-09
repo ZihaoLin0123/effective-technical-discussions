@@ -6,7 +6,7 @@ This is a sample repo for effective technical discussions
 ```python
 def hello():
   return "hello"
-
+```python
 
 
 
